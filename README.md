@@ -18,8 +18,8 @@ Also if you want to change post description and image.
 
 // sharing on user profile
 
-$share = $client->post(
 
+$share = $client->post(
                 'people/~/shares',
                 [
                     'comment' => 'I am Vinil Lakkavatri, Proud to be Indian | PHP Software Developer. I have Hands on Experience in PHP, MySQL, JavaScript, CSS, HTML, HTML5, CSS3,BOOTSTRAP, JQUERY, ANGULARJS & AJAX. I am an engineer by profession and internet surfer for new technologies by passion. I Always believe and love the quote ,DESTINY OF HARDWORK IS ALWAYS SUCCESS.',
